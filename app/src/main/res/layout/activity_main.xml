@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <TextView
+<TextView
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -39,3 +39,4 @@
         app:layout_constraintStart_toStartOf="parent"
         tools:text="здесь будет сегодняшняя дата" />
 </androidx.constraintlayout.widget.ConstraintLayout>
+
